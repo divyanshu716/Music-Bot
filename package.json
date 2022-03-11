@@ -1,0 +1,26 @@
+{
+  "name": "musicbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.8.0",
+    "ascii-table": "^0.0.9",
+    "discord-api-types": "^0.28.0",
+    "discord-player": "^5.2.2",
+    "discord.js": "^13.6.0",
+    "distube": "^3.3.2",
+    "ffmpeg-static": "^4.4.1",
+    "fs": "^0.0.1-security",
+    "glob": "^7.2.0",
+    "libsodium-wrappers": "^0.7.9",
+    "opusscript": "^0.0.8",
+    "util": "^0.12.4",
+    "ytdl-core": "^4.11.0"
+  }
+}
